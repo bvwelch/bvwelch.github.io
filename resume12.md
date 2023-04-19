@@ -1,8 +1,4 @@
-William D. Welch, Jr.
-
-411 Buttermilk Rd.
-
-Albertville, AL 35951
+William D. Welch
 
 bwelchdream@gmail.com
 
