@@ -20,15 +20,11 @@ of software and systems.
 
 -   Operating System Device Drivers: Linux, Renesas Synergy ThreadX, NetX
 
--   Networking: TCP/IP, bluetooth low energy, beacons, wireguard,
-    > tailscale, cloudflare, openvpn, wifi, cellular, LTE, UWB
+-   Networking: TCP/IP, bluetooth low energy, beacons, wireguard, tailscale, cloudflare, openvpn, wifi, cellular, LTE, UWB
 
--   CPUs: TI ble, Nordic nrf52840, ARM, cortex, Raspberry Pi, esp32,
-    > esp8266, Microchip Picmicro 16Fxx and 18Fxx, Atmel AVR arduino
+-   CPUs: TI ble, Nordic nrf52840, ARM, cortex, Raspberry Pi, esp32, esp8266, Microchip Picmicro 16Fxx and 18Fxx, Atmel AVR arduino
 
--   Software Tools: GNU compiler tools, Renesas E2studio, Segger
-    > embedded studio, Jlink, OpenWRT, OpenVPN, BusyBox, pthreads, Bash,
-    > iptables, platformio, vscode
+-   Software Tools: GNU compiler tools, Renesas E2studio, Segger embedded studio, Jlink, OpenWRT, OpenVPN, BusyBox, pthreads, Bash, iptables, platformio, vscode
 
 -   Bench Tools: Oscilloscopes, Logic Analyzers
 
