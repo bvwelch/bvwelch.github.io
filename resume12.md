@@ -20,11 +20,9 @@ of software and systems.
 
 -   Embedded Systems: (more than 25 years)
 
--   Programming Languages: more than 30 years of C. Other languages as
-    > needed, Python
+-   Programming Languages: more than 30 years of C. Other languages as needed, Python
 
--   Operating System Device Drivers: Linux, Renesas Synergy ThreadX,
-    > NetX
+-   Operating System Device Drivers: Linux, Renesas Synergy ThreadX, NetX
 
 -   Networking: TCP/IP, bluetooth low energy, beacons, wireguard,
     > tailscale, cloudflare, openvpn, wifi, cellular, LTE, UWB
