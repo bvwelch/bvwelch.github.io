@@ -6,8 +6,6 @@ Albertville, AL 35951
 
 bvwelch@gmail.com
 
-1-256-505-1433
-
 **SUMMARY:**
 
 Over forty years of engineering experience in many diverse areas, from
