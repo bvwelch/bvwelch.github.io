@@ -3,4 +3,5 @@ layout: page
 title: ""
 ---
 
-fixme
+I am a freelance consultant, available for interesting projects!
+
