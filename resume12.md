@@ -36,7 +36,7 @@ of software and systems.
 
 Freelance consultant. Bluetooth low energy beacons, RTOS embedded system
 with ThreadX, FileX, and NetX. Device drivers for SPI, fpga, sensors,
-flash chips. Linux device drivers.
+flash chips. Linux device drivers. Micropython on esp32 with Sim7600 lte module. ESP32 with arm m0 and Lora radio module.
 
 **2006 - 2011**
 
