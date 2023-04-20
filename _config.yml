@@ -2,7 +2,7 @@
 title: "WD Welch Consulting"
 #title: "William Welch"
 author: "William Welch"
-description: "He is no fool who gives what he cannot keep to gain that which he connot lose. Jim Elliot"
+description: "He is no fool who gives what he cannot keep to gain that which he cannot lose. Jim Elliot"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -18,7 +18,8 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
-  - {url: "/resume12.md", title: CV / Resume}
+  - {file: "/resume12.md", title: CV / Resume}
+# - {url: "/resume12.md", title: CV / Resume}
 # - {file: "blog.md"}
 
 
