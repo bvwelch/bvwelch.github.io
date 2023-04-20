@@ -1,7 +1,8 @@
 
-title: "William Welch"
+title: "WD Welch Consulting"
+#title: "William Welch"
 author: "William Welch"
-description: "WD Welch Consulting"
+description: "He is no fool who gives what he cannot keep to gain that which he connot lose. Jim Elliot"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
