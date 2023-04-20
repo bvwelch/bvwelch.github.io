@@ -11,5 +11,3 @@ I work as a freelance consultant, available for interesting projects!
   {% include archive.html title="Posts" %}
 {% endif %}
 
-fixme here
-
