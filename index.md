@@ -11,3 +11,4 @@ I work as a freelance consultant, available for interesting projects!
   {% include archive.html title="Posts" %}
 {% endif %}
 
+He is no fool who gives what he cannot keep to gain that which he cannot lose. Jim Elliot
