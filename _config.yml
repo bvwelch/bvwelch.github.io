@@ -27,7 +27,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/bvwelch"}
 
 
-remote_theme: niklasbuschmann/contrast@v2.11
+remote_theme: niklasbuschmann/contrast@v3.0
+#remote_theme: niklasbuschmann/contrast@v2.11
 
 plugins:
   - jekyll-remote-theme
