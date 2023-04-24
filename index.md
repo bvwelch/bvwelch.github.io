@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-I work as a freelance consultant, available for interesting projects!
+I work as a freelance computer (mostly embedded) software consultant. I am available for interesting projects!
 
 {% if site.show_excerpts %}
   {% include home.html %}
