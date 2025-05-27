@@ -3,12 +3,6 @@ title: "Adafruit M0 + RFM95 lora board"
 layout: post
 ---
 
-Using it as a usps mailbox notifier -- a mercury switch indicates mailbox door has been opened.
-Using Sandeeps library: https://github.com/sandeepmistry/arduino-LoRa
-sending a json string.
-
-Old notes below:
-
 Experimenting with the Adafruit M0 + RFM95 lora board.
 
 I hope to add it to this project:
